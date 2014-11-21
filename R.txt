@@ -1,0 +1,7 @@
+available.packages
+a <- available.packages
+head(rownames(a),3)
+
+install.packages("xxx")
+library(xxx)
+search()

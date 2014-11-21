@@ -1,0 +1,24 @@
+BEFORE COMMITTING
+git add .	Add all files 
+git add -u	updates
+git add -A	Both above
+
+COMMITTING To Local Repo
+git commit -m "message"
+
+PUSHING To Remote Repo
+git push
+
+CREATE BRANCH
+git checkout -b branchname
+
+WHICH BRANCH?
+git branch
+
+SWITCH BACK To Master
+git checkout master
+
+GITHUB PULL
+Not a feature of git, only github
+Used to show changes to owner of branch who can decide whether to include changes or not. 
+
